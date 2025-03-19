@@ -1,0 +1,5 @@
+weather_type_id,weather_type_name,weather_type_description
+1,Unpleasant,Any form of precipitation
+2,Pleasant,Temperatures above 15°C and sunny.
+3,Neutral,All other conditions.
+4,Unknown,weather information is not available.
